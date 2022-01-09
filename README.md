@@ -1,5 +1,5 @@
 # custom-ERC20-token
-Creating a Custom ERC20 token on Etherium block-chain and deploying it on Ganache local test network.
+Creating a Custom ERC20 token on Ethereum block-chain and deploying it on Ganache local test network.
 
 following files are copy and pasted from Openzeppelin's Zeppelin-solidity repository.
 
